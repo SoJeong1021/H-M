@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+a {
+	color: #FFBF00;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFBF00;
+	text-decoration: underline;
+}
+
+body {
+	background-color: #2a365c;
+}
+
+</style>
+<script type="text/javascript">
+function searchimg(keyword) {
+   //keyword.action = "searchimg.jsp";
+   //keyword.method = "post";
+   //keyword.submit();
+   location.href="searchimg.jsp";
+}
+function searchsong(keyword) {
+   keyword.action = "searchsong.jsp";
+   keyword.method = "post";
+   keyword.submit();
+}
+</script>
+<body>
+<form method ="post">
+<input type = "button" value = "이미지검색" onclick=searchimg(this.form)>
+<br></br>
+<input type = "button" value = "음악검색" onclick=searchsong(this.form)> 
+</form><!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

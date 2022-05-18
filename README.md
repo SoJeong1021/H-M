@@ -1,4 +1,4 @@
-# 듣는 미술관 _ H&M
+# 듣는 미술관
 <br/>
 
 ## 정의
@@ -41,23 +41,27 @@
 ## **프로젝트 설계**
 ### 사용자 시나리오
 - 로그인/회원가입
-<img src = "https://user-images.githubusercontent.com/75723638/168974411-7545e69d-69e1-4d0f-85b2-7e0e4298e554.png"/>
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/75723638/168974411-7545e69d-69e1-4d0f-85b2-7e0e4298e554.png" width="700" height="400"/> </p>
 
 <br/>
 
 - 메인페이지
-<img src = "https://user-images.githubusercontent.com/75723638/168974407-c8b18172-f5d3-4d3d-8c28-f0f0f32d4906.png"/>
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/75723638/168974407-c8b18172-f5d3-4d3d-8c28-f0f0f32d4906.png" width="700" height="400"/> </p>
 
 <br/>
 
 - 게시글
-<img src = "https://user-images.githubusercontent.com/75723638/168974402-e4a82abb-f32e-4da5-b025-3134414bde80.png"/>
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/75723638/168974402-e4a82abb-f32e-4da5-b025-3134414bde80.png" width="700" height="400"/> </p>
 
 </br>
 
 - 마이페이지
-<img src = "https://user-images.githubusercontent.com/75723638/168974397-9ead1d48-bda7-4e54-9a93-0d326878ef5b.png"/>
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/75723638/168974397-9ead1d48-bda7-4e54-9a93-0d326878ef5b.png" width="700" height="400"/> </p>
   
 ### DB 설계
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/75723638/168973734-66dfbd3c-cad5-4a08-bdd8-a3f3c47c5227.png"/> </p>
+<img src = "https://user-images.githubusercontent.com/75723638/168973734-66dfbd3c-cad5-4a08-bdd8-a3f3c47c5227.png" width="700" height="500"/> </p>

@@ -46,3 +46,4 @@
 - 마이페이지
   
 ### DB 설계
+<img src = "https://user-images.githubusercontent.com/75723638/168973734-66dfbd3c-cad5-4a08-bdd8-a3f3c47c5227.png"/>
